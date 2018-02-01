@@ -1,0 +1,7 @@
+[package]
+name = "shunting-yard.rs"
+version = "0.1.0"
+authors = ["rail-rain <rail91403@gmail.com>"]
+
+[dependencies]
+smallvec = "*"
